@@ -9,5 +9,5 @@ Please only use this script if you understand what it does and you have a backup
 ## Installation
 
 * download exiftool executable from https://exiftool.org/ and rename it to `exiftool.exe`
-* place exittool.exe, config file and powershell script in the same folder your files are in
+* place exiftool.exe, config file and powershell script in the same folder your files are in
 * run the script
